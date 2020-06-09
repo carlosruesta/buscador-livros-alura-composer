@@ -2,6 +2,7 @@
     "name": "carlosruesta/buscador-cursos",
     "description": "estudos composer",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Carlos Ruesta",
